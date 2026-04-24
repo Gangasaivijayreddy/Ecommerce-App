@@ -1,0 +1,496 @@
+[
+    {
+        "productName":"Men Arctic Shield Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"data:image/jpeg;base64,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",
+        "rating":4.9,
+        "price":3999,
+        "discount":30,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+    {
+        "productName":"Men Urban Puffer Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"data:image/jpeg;base64,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",
+        "rating":4.0,
+         "price":2799,
+        "discount":10,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+
+    {
+        "productName":"Men Casual Winter Hoodie Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZWuk5x30bbhhfTGx8hYVIdCqGBnSlbdD-w&s",
+        "rating":3.9,
+        "price":1899,
+        "discount":80,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+
+    {
+        "productName":"Men Alpine Zip Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHDQyTrzzYSeo3k2nreXrXTS9rBnTkCPnJbw&s",
+        "rating":4.3,
+        "price":2099,
+        "discount":50,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+
+    {
+        "productName":"Men Storm Guard Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbqpzLyFZsoMvoq2kOSlpEBuRlduP1ezS7w&s",
+        "rating":4.7,
+        "price":4999,
+        "discount":30,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+
+    {
+        "productName":"Men Classic Fleece Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPH86S8M7QCnMN-blNK8JtQ6C49SZv2faBg&s",
+        "rating":3.9,
+        "price":3599,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+    {
+        "productName":"Men Trailblaze Hooded Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRACOacAaONLvrlzu97QkazEmn1mNCOOY03GA&s",
+        "rating":4.6,
+        "price":3599,
+        "discount":35,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+    {
+        "productName":"Men Everyday Bomber Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYXzZ2RLpyixPCQkuQm5jDf2oskhfyzRhc-A&s",
+        "rating":4.4,
+        "price":2999,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+    {
+        "productName":"Men Mountain Warm Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzNaPKiqpuKdmKBW6DFDrsqClC05vRQQ-Fg&s",
+        "rating":4.6,
+        "price":1999,
+        "discount":25,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+    {
+        "productName":"Men Frost Line Padded Jacket",
+        "fullDetails":"Men Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFcdKHhD6Y7xch9x-0OzYOtwRHX__VPzhWw&s",
+        "rating":4.9,
+        "price":2999,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"men"
+    },
+
+    {
+        "productName":"Kids Cozy Puff Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqy9q7QDaTPHkwuOzfY8rQiFvCBvTdHpWWUg&s",
+        "rating":4.1,
+        "price":3499,
+        "discount":40,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+
+    {
+        "productName":"Kids Snow Day Hooded Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"data:image/jpeg;base64,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",
+        "rating":4.1,
+        "price":1899,
+        "discount":50,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+
+     {
+        "productName":"Kids Playtime Winter Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRR4MRPhI8RdarFwt-32kR__jE_e7JEb7LIA&s",
+        "rating":3.9,
+        "price":1999,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+
+     {
+        "productName":"Kids Tiny Trail Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-0hJSaMUoRZWONlkakNIL4GBwsiXBD4U8A&s",
+        "rating":4.1,
+        "price":1599,
+        "discount":35,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+
+     {
+        "productName":"Kids Warm Nest Puffer Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5oYkzD6c8vhM11bxskTOFaEQzZCt2Pzc_Q&s",
+        "rating":3.5,
+        "price":1999,
+        "discount":50,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+
+     {
+        "productName":"Kids Rainbow Chill Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVFNZD-jdlybgD105zH3fCJqR4n8ixp_dpDA&s",
+        "rating":4.2,
+        "price":2599,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+    {
+        "productName":"Kids Little Explorer Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvuGG_DzFPnx17XL4Sy_An5mWjwN2BdtXItw&s",
+        "rating":3.7,
+        "price":1999,
+        "discount":60,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+    {
+        "productName":"Kids Frost Buddy Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaT2dtayCg2a7H27L_iKiJax7CShvy_zIBg&s",
+        "rating":3.5,
+        "price":3099,
+        "discount":30,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+    {
+        "productName":"Kids Happy Winter Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSSnrWXMWl3pfeNw8NHwmDIUXY9YzOWJds5w&s",
+        "rating":4.0,
+        "price":2899,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+    {
+        "productName":"Kids Soft Cloud Jacket",
+        "fullDetails":"Kids Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdKgrat_EbnvB8l2twh_3fHNhN0P752cqPA&s",
+        "rating":4.0,
+        "price":2699,
+        "discount":35,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"kids"
+    },
+    
+    
+
+
+    {
+        "productName":"Women Luxe Quilted Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"data:image/jpeg;base64,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",
+        "price":3000,
+        "discount":25,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+
+    {
+        "productName":"Women Cozy Winter Coat",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"data:image/jpeg;base64,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",
+        "rating":4.2,
+        "price":4999,
+        "discount":30,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+    {
+        "productName":"Women Urban Chic Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"data:image/jpeg;base64,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",
+        "rating":4.5,
+        "price":3999,
+        "discount":50,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+    {
+        "productName":"Women Classic Hooded Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"data:image/jpeg;base64,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",
+        "rating":4.3,
+        "price":2999,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+    {
+        "productName":"Women Snowfall Puffer Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4WpEWlpDGbJqca_bdIeKxaVmxcbk8yj3tw&s",
+        "rating":4.0,
+        "price":1599,
+        "discount":30,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+    {
+        "productName":"Women Elegant Warm Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RS_HXiUHq78xlpfn6qTE1WzKQkuKAMXUQQ&s",
+        "rating":3.9,
+        "price":2599,
+        "discount":60,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+     {
+        "productName":"Women Everyday Comfort Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHzv4jup2G12ScM5Nf549MHJrI-MPl0rB-4w&s",
+        "rating":4.0,
+        "price":2899,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+     {
+        "productName":"Women Breeze Guard Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeNJQc64mL4-gl0PKqxj2PcB2eHnLhd5MEg&s",
+        "rating":3.9,
+        "price":2599,
+        "discount":35,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+     {
+        "productName":"Women Nordic Fleece Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKd-blW55vSb9jQfMz5xDp2eNwmK-2NmTffg&s",
+       "rating":4.9,
+        "price":3999,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    },
+     {
+        "productName":"Women Aurora Zip Jacket",
+        "fullDetails":"Women Premium jacket qualified Hodded Winter jacket for men & Boys Full",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquy7MuzxHg7ywuRKNHYi8ZzPp_SxiaNK9jA&s",
+        "rating":4.2,
+        "price":2999,
+        "discount":45,
+        "description":[
+            "Warm and comfortable winter jacket",
+            "Made with soft fleece lining",
+            "Lightweight yet highly insulating",
+            "Perfect for cold weather and daily use",
+            "Durable zipper and adjustable hood"
+        ],
+        "category":"women"
+    }
+]
