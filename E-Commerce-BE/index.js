@@ -18,7 +18,7 @@ app.use(express.json())
 app.use(cors({
   origin: [
     "http://localhost:5173", 
-    "https://ecommerce-app.vercel.app" 
+    "https://ecommerce-app-henna-iota.vercel.app" 
   ],
   credentials: true
 }));
